@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Akshat Kalal — 3D Developer Portfolio
+# 3D Developer Portfolio
 
 <p align="center">
   <strong>An interactive, high-performance 3D personal portfolio showcasing software development projects, technical skills, and experience.</strong>
