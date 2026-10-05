@@ -106,13 +106,6 @@ Ensure you have the following installed on your machine:
    ```
 
 ---
-
-## 👤 Author
-
-**Akshat Kalal**
-- **GitHub**: [@AkshathKalal18](https://github.com/AkshathKalal18)
-- **Repository**: [Shankarop-git/Portfolionew](https://github.com/Shankarop-git/Portfolionew.git)
-
 ---
 
 ## 📄 License
